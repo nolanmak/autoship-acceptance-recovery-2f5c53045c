@@ -1,1 +1,1 @@
-Before merge: synthetic fixture only.
+After merge: branch advanced; fixture only.
